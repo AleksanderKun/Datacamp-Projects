@@ -1,4 +1,5 @@
 #DataCamp Projects:
+
 0.Introduction to DataCamp Projects:
 Description: This project was part of the introduction to the DataCamp platform. It did not involve in-depth data analysis but served to understand how to use projects on the platform.
 
